@@ -13,7 +13,7 @@ Tugas: membuktikan bahwa citra digital tersusun dari piksel dan angka, menggunak
 1. Buka Google Colab, pilih **File > Upload notebook**, pilih `bukti_citra_digital.ipynb`
    (atau buka langsung dari GitHub: **File > Open notebook > GitHub**).
 2. Jalankan semua sel berurutan (**Runtime > Run all**).
-3. Pada sel "Upload foto", pilih foto Anda.
+
 
 ## Tahapan pembuktian
 1. File foto = deretan byte (magic number)
