@@ -7,7 +7,7 @@ Tugas: membuktikan bahwa citra digital tersusun dari piksel dan angka, menggunak
 |------|------------|
 | `bukti_citra_digital.ipynb` | Notebook utama (jalankan di Google Colab) |
 | `piksel.csv` | Contoh keluaran: potongan foto sebagai teks angka (opsional) |
-| `foto/` | Foto yang dipakai (opsional) |
+
 
 ## Cara menjalankan
 1. Buka Google Colab, pilih **File > Upload notebook**, pilih `bukti_citra_digital.ipynb`
